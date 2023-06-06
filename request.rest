@@ -1,0 +1,8 @@
+###Get all courses
+GET http://localhost:3003/
+
+##get all courses
+GET http://localhost:3003/courses
+
+###Get all courses by name
+GET http://localhost:3003/courses/search?name=React
